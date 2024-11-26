@@ -34,4 +34,8 @@ Developed a simple calculator with GUI using tkinter
 
 ---
 
+## 🖼Screenshot
+### UI of Calculator
+![UI](Assets/ss2.png)
+
 
