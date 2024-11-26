@@ -1,7 +1,11 @@
 # Simple-GUI-Calculator
 Developed a simple calculator with GUI using tkinter
 
----
+![GitHub Repo Size](https://img.shields.io/github/repo-size/rishav0821/Simple-GUI-Calculator)
+![GitHub Stars](https://img.shields.io/github/stars/rishav0821/Simple-GUI-Calculator?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/rishav0821/Simple-GUI-Calculator?style=social)
+
+
 ## ✨Features
 - **Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)**
 - **Error Handling:Division by zero is handled gracefully, displaying an "Error" message.**
