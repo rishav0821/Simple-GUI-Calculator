@@ -38,4 +38,8 @@ Developed a simple calculator with GUI using tkinter
 ### UI of Calculator
 ![UI](Assets/ss2.png)
 
+## Author
+Developed by [Rishav](https://github.com/rishav0821).
+
+---
 
